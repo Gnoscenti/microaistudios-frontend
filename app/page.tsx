@@ -235,7 +235,7 @@ export default function Home() {
                       Ask the Strategic Catalyst a question to get started.
                     </h3>
                     <p className="text-gray-600">
-                      Example: "How can I create a business model for my startup?"
+                      Example: &ldquo;How can I create a business model for my startup?&rdquo;
                     </p>
                   </div>
                 ) : (
